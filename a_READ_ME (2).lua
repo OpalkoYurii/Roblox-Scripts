@@ -1,1 +1,0 @@
-dm me script doesn't work. i will add it here :)

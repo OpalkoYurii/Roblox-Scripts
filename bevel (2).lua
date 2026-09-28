@@ -1,1 +1,0 @@
-script/workspace.acb227.Head.Mesh:remove() mesh = Instance.new("BlockMesh", workspace.acb227.Head) me = workspace.acb227.Head.Mesh me.Bevel = 100 me.Scale = Vector3.new(0.5, 1, 0.5) 
